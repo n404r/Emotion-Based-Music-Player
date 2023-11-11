@@ -1,0 +1,8 @@
+# requirements.txt
+
+# OpenCV for computer vision
+opencv-python
+opencv-contrib-python
+
+# Eel for creating Electron-like desktop apps
+eel
